@@ -8,6 +8,5 @@ Full material Selenium
 
 ![[Selenium Full Material (1).pdf]]
 
-kkkk
 
 
