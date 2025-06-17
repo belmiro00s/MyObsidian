@@ -11,14 +11,14 @@
             "id": "99e75cdfdf94710c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "SDET/Selenium/Course in Progress.md",
-                "bFile": "SDET/Selenium/Course in Progress.md",
-                "aRef": ""
+                "file": "SDET/Selenium/Course in Progress.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Course in Progress"
+              "icon": "lucide-file",
+              "title": "Course in Progress"
             }
           }
         ]
