@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6482e01b008bf359",
+        "id": "8cb61686078a6ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "99e75cdfdf94710c",
+            "id": "2f48e51025c6e9dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "SDET/Selenium/Course in Progress.md",
-                "mode": "source",
-                "source": false
+                "aFile": "SDET/Test API Strategy and Heuristics/VADER HEURISTIC.md",
+                "bFile": "SDET/Test API Strategy and Heuristics/VADER HEURISTIC.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Course in Progress"
+              "icon": "diff",
+              "title": "Diff: VADER HEURISTIC"
             }
           }
         ]
@@ -177,10 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99e75cdfdf94710c",
+  "active": "2f48e51025c6e9dc",
   "lastOpenFiles": [
-    "SDET/Selenium/Course in Progress.md",
+    "SDET/Selenium/Project in Progress.md",
+    "SDET/Selenium/Runing TestNG Suite (Simple).md",
+    "SDET/Selenium/Runing With Maven Surefire Plugin.md",
     "SDET/Selenium/Selenium Full Material (1).pdf",
+    "SDET/Test API Strategy and Heuristics/VADER HEURISTIC.md",
+    "SDET/Test API Strategy and Heuristics/Attachments/Mind map heuristic api testing.jpg",
+    "SDET/Test API Strategy and Heuristics/Attachments",
+    "SDET/Test API Strategy and Heuristics",
     "conflict-files-obsidian-git.md",
     "SDET/Selenium",
     "dddddddd.md",
