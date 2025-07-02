@@ -5,6 +5,13 @@
 The Maven Surefire Plugin is used primarily for **executing unit and integration tests** during the build lifecycle of a Maven project. It also handles **generating reports** for these tests. In your project's configuration, it's specifically set up to run tests defined in TestNG XML suite files. This allows for automated and configurable test execution as part of your development process.
 
 
+## What Surefire does:
+
+- Runs unit tests during the `test` phase of Maven build
+- Generates test reports (XML and text formats)
+- Handles test discovery and execution
+- Manages test classpath and JVM settings
+
 
 
 ### Understanding Your Configuration

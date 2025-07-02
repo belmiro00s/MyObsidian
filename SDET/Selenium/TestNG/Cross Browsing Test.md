@@ -54,7 +54,7 @@ public class BaseTest {
 
 
 
-## TestNG configuration Methods
+## TestNG.xml configuration Methods
 
 
 Create testng.xml to handle with different browsers an run in parallel 
