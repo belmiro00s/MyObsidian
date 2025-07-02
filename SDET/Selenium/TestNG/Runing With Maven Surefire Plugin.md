@@ -117,3 +117,13 @@ Based on your project's file structure, you have:
 
 ## TestNG Reports
 
+The Reports are generated after run tests by command line : `mvn test`
+It is created an folder surefire-reports
+
+![[Pasted image 20250702112100.png]]
+
+To access the report in a friendly view: 
+
+![[Pasted image 20250702113703.png]]
+
+![[Pasted image 20250702113722.png]]
