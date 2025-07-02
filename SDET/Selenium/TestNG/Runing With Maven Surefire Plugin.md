@@ -8,7 +8,7 @@ The Maven Surefire Plugin is used primarily for **executing unit and integration
 ## What Surefire does:
 
 - Runs unit tests during the `test` phase of Maven build
-- Generates test reports (XML and text formats)
+[- Generates test reports (XML and text formats)](obsidian://open?vault=Obsidian%20Vault&file=SDET%2FSelenium%2FTestNG%2FTestNG%20Reports)
 - Handles test discovery and execution
 - Manages test classpath and JVM settings
 
@@ -112,3 +112,8 @@ Based on your project's file structure, you have:
     ```
     mvn test -DsuiteXmlFile=testng.xml
     ```
+
+
+
+## TestNG Reports
+
